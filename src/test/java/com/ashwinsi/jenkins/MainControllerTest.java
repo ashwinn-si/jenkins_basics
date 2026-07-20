@@ -12,6 +12,6 @@ public class MainControllerTest {
 
     @Test
     public void testGetEndPoint(){
-        Assertions.assertEquals("alive", mainController.health());
+        Assertions.assertEquals("aliveeeeeeeeee", mainController.health());
     }
 }
